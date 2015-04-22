@@ -24,16 +24,16 @@ Chad	Middle Africa	Africa
 Congo (Brazzaville)	Middle Africa	Africa
 Congo, Democratic Republic of the	Middle Africa	Africa
 Equatorial Guinea	Middle Africa	Africa
-Gabon	Middle Africa	Africa	Southern Africa	Africa
-Sao Tome and Principe	Northern Africa	Africa	Southern Africa	Africa
-Algeria	Northern Africa	Africa	Southern Africa	Africa
-Egypt	Northern Africa	Africa	Southern Africa	Africa
-Libyan Arab Jamahiriya	Northern Africa	Africa	Southern Africa	Africa
-Morroco	Northern Africa	Africa	Southern Africa	Africa
-South Sudan	Northern Africa	Africa	Southern Africa	Africa
-Sudan	Northern Africa	Africa	Southern Africa	Africa
-Tunisia	Northern Africa	Africa	Southern Africa	Africa
-Western Sahara	Northern Africa	Africa	Southern Africa	Africa
+Gabon	Middle Africa	Africa
+Sao Tome and Principe	Northern Africa	Africa
+Algeria	Northern Africa	Africa
+Egypt	Northern Africa	Africa
+Libyan Arab Jamahiriya	Northern Africa	Africa
+Morroco	Northern Africa	Africa
+South Sudan	Northern Africa	Africa
+Sudan	Northern Africa	Africa
+Tunisia	Northern Africa	Africa
+Western Sahara	Northern Africa	Africa
 Botswana	Southern Africa	Africa
 Lesotho	Southern Africa	Africa
 Namibia	Southern Africa	Africa
@@ -112,6 +112,7 @@ Greenland	Northern America	The Americas
 Saint Pierre and Miquelon	Northern America	The Americas
 United States	Northern America	The Americas
 Afganistan	Asia	Asia
+Afghanistan	Asia	Asia
 Armenia	Asia	Asia
 Azerbaijan	Asia	Asia
 Bangladesh	Asia	Asia
